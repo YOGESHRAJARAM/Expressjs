@@ -1,0 +1,3 @@
+2024/05/06	13:04:30	0744c9b2-c8c7-442a-9927-3af89887fd6a	Error:Not allowed by cors
+2024/05/06	13:04:30	ae99c384-ca42-4c64-b360-b71615170149	Error:Not allowed by cors
+2024/05/07	10:25:40	8ebef185-a83d-4be9-b908-8d7e55f5a05b	Error:ENOENT: no such file or directory, stat 'D:\expressjs\nodejs_web_server\views\test.html'

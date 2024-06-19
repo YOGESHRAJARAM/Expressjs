@@ -1,0 +1,16 @@
+GET http://localhost:3500/employees
+
+###
+
+GET http://localhost:3500/employees/1
+
+###
+
+post http://localhost:3500/employees
+Content-Type: application/json
+ 
+ {
+    "firstname":"yogesh",
+    "lastname":"Subscribe"
+
+ }
